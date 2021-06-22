@@ -9,7 +9,7 @@ module.exports = {
     {
       resolve: 'gatsby-source-wordpress',
       options: {
-        url: 'http://headless.test/graphql'
+        url: `http://headless.test/graphql`,
       }
     },
     {
